@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "588274576550",
+    "project_id": "cryptobase-1963e",
+    "storage_bucket": "cryptobase-1963e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588274576550:android:0e3443c5ba8cd7cda4d867",
+        "android_client_info": {
+          "package_name": "com.cryptobase.android.pb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588274576550-sv5ftdqemm81odruclqpj7t05ephja6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptobase.android.pb",
+            "certificate_hash": "2fcd371f226d38d01b8597d2f7773da555c545f8"
+          }
+        },
+        {
+          "client_id": "588274576550-m7941oe2u6atdp1lv7triredkdi4v88s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eav4p1FKAwQxo96LhRDPNZ1ez098Iyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588274576550-m7941oe2u6atdp1lv7triredkdi4v88s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588274576550-6apdptkcb1ns2f5k6neg3qk2s1lv48p6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptobase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588274576550:android:daf7bee31640ac76a4d867",
+        "android_client_info": {
+          "package_name": "com.example.cryptobase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588274576550-rcs99i9ponastpt0qtlvlh4ate2r2cr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptobase",
+            "certificate_hash": "2fcd371f226d38d01b8597d2f7773da555c545f8"
+          }
+        },
+        {
+          "client_id": "588274576550-m7941oe2u6atdp1lv7triredkdi4v88s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eav4p1FKAwQxo96LhRDPNZ1ez098Iyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588274576550-m7941oe2u6atdp1lv7triredkdi4v88s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588274576550-6apdptkcb1ns2f5k6neg3qk2s1lv48p6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptobase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
